@@ -23,6 +23,8 @@ body {
 	margin-right: 0;
 }
 
+@media (max-width: 768px) { p { font-size: 20px; } }
+
 /* hero */
 
 .top-container {
